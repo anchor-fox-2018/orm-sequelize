@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/anchor-fox-2018/orm-sequelize#readme",
   "dependencies": {
+    "nodemon": "^1.18.4",
     "pg": "^7.4.3",
     "pg-hstore": "^2.3.2",
     "sequelize": "^4.38.1"
